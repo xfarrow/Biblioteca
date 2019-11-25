@@ -1,0 +1,41 @@
+#center{
+background-color:white;
+height:85%;
+margin-left:150px;
+margin-right:150px;
+margin-top:10px;
+border-radius:10px;
+}
+
+#center-right{
+	margin-left:50%;
+}
+
+#center-left{
+	margin-top:50px;
+	margin-left:50px;
+	width:50%;
+	float:left;
+	position:relative;
+}
+
+#buttonDIV{
+	margin-left:85%;
+	margin-right:25px;
+	margin-top:65px;
+}
+
+input[type=submit] {
+	width:100px;
+    background-color: #7c665f;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: #4e3c3b;
+}
