@@ -1,0 +1,3 @@
+Per far funzionare correttamente la biblioteca:
+1) Apri create_connection.php ed edita l'username e la password del tuo DBMS.
+2) Solo una volta va aperto createDB.php
